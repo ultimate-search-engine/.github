@@ -10,7 +10,9 @@
 
 ### Autoři projektu:
 
-**[Vojtěch Binar](https://github.com/Exanys)**, **[Filip Hostinský](https://github.com/SeezoCode)**, **[David Stoček](https://github.com/STOKYS)**
+- **[Vojtěch Binar](https://github.com/Exanys)**, [Back-end | Suggester]
+- **[Filip Hostinský](https://github.com/SeezoCode)** [Back-end | Search Manager, Scraper, Crawler]
+- **[David Stoček](https://github.com/STOKYS)** [Front-end]
 
 ### Konzultanti:
 
@@ -28,7 +30,42 @@
 
 - ****
 
-<!-- ### Časový harmonogram: -->
+### Časový harmonogram:
+
+#### Leden
+
+- [x] Sestavení původního konceptu front-endu
+
+#### Únor
+
+- [x] Renderování výsledků na stránce
+- [x] Komunikace front-endu se search managerem
+
+#### Březen
+
+- [x] Renderování suggestů na stránce
+- [x] Číslování stránek
+- [x] Koncept "O nás" stránky
+
+#### Duben
+
+#### Květen
+
+#### Červen
+
+#### Červenec
+
+#### Srpen
+
+#### Září
+
+- [x] Úprava komponentů a dat
+
+#### Říjen
+
+#### Listopad
+
+#### Prosinec
 
 ### Zdroje informací: 
 
