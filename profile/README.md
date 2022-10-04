@@ -17,16 +17,22 @@
 ### Konzultanti:
 
 **[Filip Peterek](https://github.com/fpeterek)**
+**[Marek Lučný](https://github.com/lucny)**
 
 ### Použité technologie a postupy: 
 
 #### Front-end
 
 - **Next.js** framework pro vývoj webu
-- **Typescript** programovací jazyk
+- **TypeScript** programovací jazyk
 - **SCSS** pre-procesorový stylovací jazyk
 
 #### Back-end
+- **Elasticsearch** You know, for search
+- **MongoDB** repozitář všech scrapnutých stránek
+- **Puppeteer** webový scraper
+- **Kotlin** a **Python** back-end programovací jazyk
+- **Docker** 🤢
 
 - ****
 
@@ -35,6 +41,7 @@
 #### Leden
 
 - [x] Sestavení původního konceptu front-endu
+
 
 #### Únor
 
@@ -71,5 +78,5 @@
 
 - *Next.js Documentation [online]. Los Angeles: Vercel, 2016 [cit. 2022-09-30]. Dostupné z: https://nextjs.org/docs*
 - *SCSS Documentation [online]. Sass team, 2006 [cit. 2022-09-30]. Dostupné z: https://sass-lang.com/documentation/*
-- *Typescript Documentation [online]. Microsoft, 2012 [cit. 2022-09-30]. Dostupné z: https://www.typescriptlang.org/docs/*
+- *TypeScript Documentation [online]. Microsoft, 2012 [cit. 2022-09-30]. Dostupné z: https://www.typescriptlang.org/docs/*
 
