@@ -16,7 +16,7 @@
 
 ### Konzultanti:
 
-**[Filip Peterek](https://github.com/fpeterek)**
+**[Filip Peterek](https://github.com/fpeterek)**,
 **[Marek Lučný](https://github.com/lucny)**
 
 ### Použité technologie a postupy: 
