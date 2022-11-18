@@ -72,11 +72,12 @@
 
 #### Říjen
 
-- [ ] Android aplikace
-- [ ] Tmavý režim
-- [ ] Hotové suggesty
+- [x] Primitivní Android aplikace
+- [x] Hotové suggesty
 
 #### Listopad
+
+- [x] Výběr barevných motivů
 
 #### Prosinec
 - [ ] Konečné úpravy 
